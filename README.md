@@ -5,7 +5,7 @@
 ### Early diagnosis is crucial for effective cancer treatment. Intelligent systems equipped with machine learning and deep learning algorithms can analyze extensive healthcare data, enabling timely identification of potential cancer cases. By predicting outcomes, these systems contribute to early detection and improved patient outcomes.
 ## Forecasting Recurrence:
 ### Predictive frameworks estimate the likelihood of cancer recurrence after treatment. By understanding risk factors and recurrence patterns, clinicians can implement targeted interventions and surveillance strategies.
-### machine learning models like Intelligent Systems, Backpropagation, K-Closest Neighbor, and Naïve Bayes are also considered 1.
+### machine learning models like Intelligent Systems, Backpropagation, K-Closest Neighbor, and Naïve Bayes are also considered.
 
 ![Slide1](https://github.com/MuhammadZulqarnainshabbir/An-intelligent-system-for-cancer-prediction/assets/64017518/ada710a6-49b1-4c6a-8ded-e3d5cf6fc781)
 

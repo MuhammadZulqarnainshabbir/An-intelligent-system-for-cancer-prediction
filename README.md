@@ -1,3 +1,4 @@
 # An-intelligent-system-for-cancer-prediction
 An intelligent  system for cancer diagnosis using machine and data science
-Slide1.PNG
+
+![Slide1](https://github.com/MuhammadZulqarnainshabbir/An-intelligent-system-for-cancer-prediction/assets/64017518/ada710a6-49b1-4c6a-8ded-e3d5cf6fc781)
